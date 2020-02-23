@@ -1,0 +1,12 @@
+/* Your custom styles */
+    #main_text {
+       font-family: 'Spectral',
+       serif;
+    }
+
+    #compservhead {
+
+letter-spacing: -1px;
+font-size: 3rem;
+
+    }
