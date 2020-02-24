@@ -10,3 +10,7 @@ letter-spacing: -1px;
 font-size: 3rem;
 
     }
+.dropdown-menu {
+    min-width: 5rem;
+    left: -50px;
+}
